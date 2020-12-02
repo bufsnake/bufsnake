@@ -1,7 +1,5 @@
-<div  style="algin=center">
 <h2>🏆 Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=bufsnake&column=7"/>
-</div>
 
 ---
 
