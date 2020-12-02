@@ -21,15 +21,6 @@ Here are some ideas to get you started:
 
 ---
 
-- 🔭 Gopher
-- 🌱 Open source fancier
-- 🔥 gin-vue-admin https://www.gin-vue-admin.com/
-- 🔥 go-web-model https://github.com/songzhibin97/GoWebModel
-- 🔥 logAgent https://github.com/songzhibin97/LogAgent 
-- 🏠 Homepage at https://www.cnblogs.com/binHome/
-
----
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=bufsnake&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bufsnake&layout=compact" />
