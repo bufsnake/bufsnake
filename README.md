@@ -1,4 +1,4 @@
-<h2>🏆 Github Profile Trophy</h2>
+<h2 style="algin=center">🏆 Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=bufsnake&column=7"/>
 
 ---
