@@ -8,7 +8,4 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bufsnake&show_icons=true&custom_title=github%20stats" />
     <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=bufsnake&theme=tokyonight_duo"/>
 </p>
-<p width="100%" align="center">
-    <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=bufsnake&bg_color=ffffff&color=403e3e&line=4f94ef&point=38bdae&custom_title=contribution%20graph" />
-</p>
 <hr>
